@@ -1,5 +1,18 @@
 body {
-  background-image: linear-gradient(to right top, #051937, #002366, #002a95, #0029c2, #4b12eb);
+  background-image: linear-gradient(
+    to right top,
+    #051937,
+    #002366,
+    #002a95,
+    #0029c2,
+    #4b12eb
+  );
+  min-height: 100vh;
+  color: white !important;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
 }
 
 /*# sourceMappingURL=style.css.map */
