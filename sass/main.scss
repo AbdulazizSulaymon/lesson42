@@ -7,4 +7,10 @@ body {
     #0029c2,
     #4b12eb
   );
+  min-height: 100vh;
+  color: white !important;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
 }
